@@ -1,0 +1,28 @@
+{
+  "name": "webgl_unity_experimentation",
+  "version": "1.0.0",
+  "description": "An experimentation with unity and webgl",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiajianou/webgl_unity_experimentation.git"
+  },
+  "keywords": [
+    "unity",
+    "webgl"
+  ],
+  "author": "J.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiajianou/webgl_unity_experimentation/issues"
+  },
+  "homepage": "https://github.com/Jiajianou/webgl_unity_experimentation#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
